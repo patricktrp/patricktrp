@@ -9,4 +9,4 @@
 <img align="left" alt="aws" width="40px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png">
 <img align="left" alt="aws" width="40px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/linux/linux.png">
 <img align="left" alt="aws" width="40px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/django/django.png">
-
+<img align="left" alt="aws" width="40px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/mysql/mysql.png">
