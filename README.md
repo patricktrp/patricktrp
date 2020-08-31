@@ -1,5 +1,5 @@
 ## Hi everyone! 👋
-My name is Patrick and I'm a Computer Science student with Interest in Full Stack Web Development & Cloud Computing 
+My name is Patrick and I'm a Computer Science student with Interest in Full Stack Web Development, Cloud Computing & Algorithms
 
 - 🎓 University of Wuppertal, Germany
 <br />
