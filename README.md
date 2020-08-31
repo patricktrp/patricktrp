@@ -1,7 +1,7 @@
 ## Hi everyone! 👋
 My name is Patrick and I'm a Computer Science student with Interest in Full Stack Web Development & Cloud Computing 
 
-#### - 🎓 University of Wuppertal, Germany
+- 🎓 University of Wuppertal, Germany
 <br />
 <br />
 
