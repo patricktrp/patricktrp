@@ -16,6 +16,7 @@ My name is Patrick and I'm a Computer Science student with Interest in Full Stac
 <img align="left" alt="aws" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
 
 <br />
+<br />
 
 ### 🌱 I’m currently learning
 <img align="left" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/>
