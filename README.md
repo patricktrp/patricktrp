@@ -2,7 +2,7 @@
 I'm Patrick and I'm a Computer Science student with Interest in Full Stack Web Development, Cloud Computing & Algorithms/Datastructures
 
 - 🎓 University of Wuppertal, Germany
-- 👨‍💻 IT Working Student at Coroplast Fritz Müller GmbH & Co. KG, Wuppertal
+- 💼 IT Working Student at Coroplast Fritz Müller GmbH & Co. KG, Wuppertal
 <br />
 <br />
 
