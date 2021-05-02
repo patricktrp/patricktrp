@@ -1,10 +1,14 @@
 ## Hi everyone! 👋
-My name is Patrick and I'm a Computer Science student with Interest in Full Stack Web Development, Cloud Computing & Algorithms/Datastructures
+My name is Patrick and I'm a Computer Science student with Interest in Full Stack Web Development, System Design & Algorithms/Datastructures
 
 - 🎓 University of Wuppertal, Germany
 
-<!---
+
 ### ⚙️ Languages and Tools
+- HTML
+- CSS
+- JavaScript
+- Python
 <!---
 <img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
 <img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
@@ -18,8 +22,11 @@ My name is Patrick and I'm a Computer Science student with Interest in Full Stac
 <!---
 <br />
 <br />
-<!---
+
 ### 🌱 I’m currently learning
+- Golang
+- React
+<!---
 <img align="left" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/>
 <img align="left" alt="aws" width="40px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png">
 
