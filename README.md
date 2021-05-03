@@ -9,7 +9,7 @@ My name is Patrick and I'm a Computer Science student with Interest in Full Stac
 - CSS
 - JavaScript
 - Python
-- Docker <img align="left" alt="aws" width="40px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/docker/docker.png">
+- <img align="left" alt="aws" width="40px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/docker/docker.png">
 - PostgreSQL
 
 ### 🌱 I’m currently learning
