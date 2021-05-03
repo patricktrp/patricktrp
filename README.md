@@ -9,6 +9,8 @@ My name is Patrick and I'm a Computer Science student with Interest in Full Stac
 - CSS
 - JavaScript
 - Python
+- Docker
+- PostgreSQL
 
 ### 🌱 I’m currently learning
 - Golang
